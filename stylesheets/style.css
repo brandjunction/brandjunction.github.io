@@ -1,0 +1,19 @@
+/*
+* Palette
+* Orange #D97F2D
+* Text Gray #36373E
+* Overlays 75% opacity
+*/
+
+/* Nav */
+
+nav {
+  background:;
+  border-bottom: solid 5px #D97F2D;
+  height: 100px;
+}
+
+nav img {
+  height: 81px;
+  width: 148px;
+}
