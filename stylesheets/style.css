@@ -251,13 +251,15 @@ footer {
 	font-size: 100px;
 }
 
-.large-6 {
+.medium-6 {
 	text-align: center;
 }
 
 #contact {
 	list-style: none;
 	text-align: right;
+	font-family: 'GentBasR';
+	color: #36373E;
 }
 
 .orange {
@@ -300,7 +302,11 @@ footer {
 	text-align: center;
 }
 
-#vid p {
-	font-size: 200px;
+#vid a {
+	font-size: 150px;
 	color: #DF2826;
+}
+
+iframe {
+	margin-bottom: 30px;
 }
