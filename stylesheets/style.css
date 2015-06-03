@@ -7,24 +7,24 @@
 
 @font-face {
 	font-family: 'Genti';
-	src: '../fonts/GentBasI.ttf';
+	src: url('../fonts/GentBasI.ttf');
 
 }
 
 @font-face {
 	font-family: 'Gent';
-	src: '../fonts/GentBasR.ttf';
+	src: url('../fonts/GentBasR.ttf');
 
 }
 
 @font-face {
 	font-family: 'SourceBold';
-	src: '../fonts/SourceSansPro-Bold.ttf';
+	src: url('../fonts/SourceSansPro-Bold.ttf');
 }
 
 @font-face {
 	font-family: 'SourceSemi';
-	src: '../fonts/SourceSansPro-Semibold.ttf';
+	src: url('../fonts/SourceSansPro-Semibold.ttf');
 }
 
 .row {
@@ -323,6 +323,7 @@ iframe {
 	}
 
 	h2 {
+		font-size: 30px;
 		opacity: .1;
 	}
 
@@ -345,6 +346,7 @@ iframe {
 
 	.sm-icons a {
 		font-size: 25px;
+		margin: 0 12px;
 	}
 
 	.icon {
@@ -380,7 +382,7 @@ iframe {
 		font-size: 40px;
 	}
 
-  .btn ,.btn:hover, .btn:focus, .btn:active, .btn:visited  {
+    .btn ,.btn:hover, .btn:focus, .btn:active, .btn:visited  {
 		font-size: 18px;
 		min-height: 37.5px;
 		min-width: 100px;
