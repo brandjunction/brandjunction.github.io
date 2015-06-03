@@ -325,6 +325,7 @@ iframe {
 	h2 {
 		font-size: 30px;
 		opacity: .1;
+		padding-top: 10px;
 	}
 
 	h3 {
