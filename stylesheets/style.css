@@ -18,12 +18,12 @@
 }
 
 @font-face {
-	font-family: 'Source Bold';
+	font-family: 'SourceBold';
 	src: '../fonts/SourceSansPro-Bold.ttf';
 }
 
 @font-face {
-	font-family: 'Source Semi';
+	font-family: 'SourceSemi';
 	src: '../fonts/SourceSansPro-Semibold.ttf';
 }
 
@@ -70,7 +70,7 @@ nav {
 
 nav a {
   color: #36373E;
-  font-family: 'SourceSansPro-Semibold';
+  font-family: 'SourceSemi';
   font-size: 20px;
 }
 
@@ -114,7 +114,7 @@ nav ul li {
 }
 
 #cta {
-	font-family: 'SourceSansPro-Bold';
+	font-family: 'SourceBold';
 	color: white;
 	font-size: 60px;
 	padding: 150px 0;
@@ -138,7 +138,7 @@ nav ul li {
 
 .btn, .btn:hover, .btn:focus, .btn:active, .btn:visited {
 	background-color: #D97F2D;
-	font-family: 'SourceSansPro-Semibold';
+	font-family: 'SourceSemi';
 	font-size: 36px;
 	text-transform: uppercase;
 	border-radius: 10px;
@@ -182,7 +182,7 @@ h1, h3 {
 }
 
 h1 {
-	font-family: 'SourceSansPro-Semibold';
+	font-family: 'SourceSemi';
 	font-size: 60px;
 	color: #36373E;
 	padding: 30px 0;
@@ -204,7 +204,7 @@ h3 {
 }
 
 h4 {
-	font-family: 'SourceSansPro-Bold';
+	font-family: 'SourceBold';
 	font-size: 25px;
 	font-weight: bold;
 	text-align: center;
@@ -363,6 +363,10 @@ iframe {
 		margin: 10px 0;
 	}
 
+	nav ul li {
+		margin-left: 12px;
+	}
+
 	nav img {
 		padding-top: 3px !important;
 		max-width: 30px;
@@ -409,7 +413,4 @@ iframe {
 	.orange p {
 		font-size: 24px;
 	}
-
-
-
 }
