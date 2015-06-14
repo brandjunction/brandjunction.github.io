@@ -219,6 +219,12 @@ p {
 	font-size: 24px;
 }
 
+.step {
+	max-width: 375px;
+	text-align: justify;
+	margin: 0 auto 20px;
+}
+
 .testimony p {
 	color: white;
 	font-family: 'GentBasI';
