@@ -263,6 +263,10 @@ footer {
 	font-size: 100px;
 }
 
+.icon > img {
+	margin-top: 12px;
+}
+
 .indie {
 	text-align: center;
 	max-width: 100%;
