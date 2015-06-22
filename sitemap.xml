@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+
+<url>
+  <loc>http://www.brandjct.com/</loc>
+  <lastmod>2015-06-16T03:19:23+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.brandjct.com/index.html</loc>
+  <lastmod>2015-06-16T03:19:23+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.brandjct.com/ideas.html</loc>
+  <lastmod>2015-06-16T03:19:23+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.brandjct.com/create.html</loc>
+  <lastmod>2015-06-16T03:19:23+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+<url>
+  <loc>http://www.brandjct.com/meet.html</loc>
+  <lastmod>2015-06-16T03:19:23+00:00</lastmod>
+  <changefreq>daily</changefreq>
+</url>
+</urlset>
