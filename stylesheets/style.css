@@ -166,7 +166,7 @@ nav ul li {
 
 .testimony {
 	background-color: #D97F2D;
-	opacity: .50;
+	opacity: .7;
 	color: white;
 	display: table;
 	width: 100%;
@@ -229,7 +229,7 @@ p {
 	color: white;
 	font-family: 'GentBasI';
 	font-style: italic;
-	font-size: 60px;
+	font-size: 40px;
 }
 
 .sm-icons li {
@@ -362,7 +362,7 @@ iframe {
 
 
 	.testimony p {
-		font-size: 30px;
+		font-size: 20px;
 	}
 
 	.sm-icons a {
